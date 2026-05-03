@@ -9,15 +9,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk/svg-only@v3
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-                    dist/snake.svg
-                    dist/pacman-contribution-graph.svg?color_snake=yellow&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&mode=pacman
-                    dist/pacman-contribution-graph-dark.svg?color_snake=yellow&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&mode=pacman
-      - uses: crazy-max/ghaction-github-pages@v3
+            dist/snake.svg
+            dist/pacman-contribution-graph.svg?palette=github&mode=pacman
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark&mode=pacman
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
