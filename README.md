@@ -1,5 +1,5 @@
 <div>
-  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100§ion=header&reversal=false&text=Welcome%20Devs!&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Welcome%20Devs!&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
 </div>
 
 ###
@@ -92,10 +92,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/vishalkumarsingh21/vishalkumarsingh21/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=vishalkumarsingh21.vishalkumarsingh21" />
 </div>
@@ -110,5 +106,5 @@
 ###
 
 <div>
-  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100§ion=footer&reversal=false&text=Thankyou!&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Thankyou!&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
 </div>
