@@ -99,8 +99,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalkumarsingh21&cache_seconds=1800&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalkumarsingh21&cache_seconds=1800&layout=compact&langs_count=5&theme=dracula" />
+  <a href="http://www.github.com/vishalkumarsingh21"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkumarsingh21&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
 
 ###
